@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\hw 5 templates..vectors\hw 12.8\hw 12.8\source.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\hw 5 templates..vectors\hw 12.8\hw 12.8\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  d:\hw 5 templates..vectors\hw 12.8\hw 12.8\source.cpp(46): note: while compiling class template member function 'void MyVector<int>::swap(MyVector<int>)'
+  d:\hw 5 templates..vectors\hw 12.8\hw 12.8\source.cpp(75): note: see reference to function template instantiation 'void MyVector<int>::swap(MyVector<int>)' being compiled
+  d:\hw 5 templates..vectors\hw 12.8\hw 12.8\source.cpp(68): note: see reference to class template instantiation 'MyVector<int>' being compiled
+d:\hw 5 templates..vectors\hw 12.8\hw 12.8\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  HW 12.8.vcxproj -> D:\HW 5 Templates..Vectors\HW 12.8\Debug\HW 12.8.exe

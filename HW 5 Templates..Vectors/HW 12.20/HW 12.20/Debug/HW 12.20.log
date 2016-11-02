@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\hw 5 templates..vectors\hw 12.20\hw 12.20\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\hw 5 templates..vectors\hw 12.20\hw 12.20\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  d:\hw 5 templates..vectors\hw 12.20\hw 12.20\source.cpp(32): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+d:\hw 5 templates..vectors\hw 12.20\hw 12.20\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW 12.20.vcxproj -> D:\HW 5 Templates..Vectors\HW 12.20\Debug\HW 12.20.exe

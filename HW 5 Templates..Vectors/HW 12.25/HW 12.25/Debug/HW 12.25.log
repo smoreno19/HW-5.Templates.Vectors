@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\hw 5 templates..vectors\hw 12.25\hw 12.25\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+d:\hw 5 templates..vectors\hw 12.25\hw 12.25\source.cpp(159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\hw 5 templates..vectors\hw 12.25\hw 12.25\source.cpp(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HW 12.25.vcxproj -> D:\HW 5 Templates..Vectors\HW 12.25\Debug\HW 12.25.exe
